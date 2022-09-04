@@ -1,0 +1,111 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "DTS-Project.DatabaseContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "DTS_Project.Domain",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 2,
+   "Tables": [
+      {
+         "Name": "[dbo].[Cellule]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Commission]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CommissionMembreCellule]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Daara]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Diplome]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DiplomesMembre]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Evenement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[GroupeEvenement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Informations]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Livre]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LivresMaitrise]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Membre]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MembresGroupeEvenement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Password_Resets]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Permission]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PermissionsRole]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Role]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TypeEvenement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Ville]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DTS-Project.Database\\DTS-Project.Database.sqlproj",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

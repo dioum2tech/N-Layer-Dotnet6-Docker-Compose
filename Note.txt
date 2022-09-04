@@ -1,0 +1,18 @@
+https://jasonwatmore.com/post/2022/01/16/net-6-hash-and-verify-passwords-with-bcrypt
+
+https://fr.33streamay.com/voirstream/voir-chicago-fire-saison-3-episode-3-18835.html
+
+https://www.c-sharpcorner.com/article/jwt-authentication-with-refresh-tokens-in-net-6-0/
+
+https://jasonwatmore.com/fr/post/2021/12/14/net-6-tutoriel-authentification-jwt-avec-exemple-api
+
+// test
+https://docs.docker.com/compose/startup-order/
+
+https://www.programmingwithwolfgang.com/set-up-docker-compose-for-asp-net-core-3-1-microservices/
+
+https://hevodata.com/learn/sql-server-docker/
+
+https://infinity-arc.github.io/mssql-docker-compose/
+
+https://dbafromthecold.com/2020/07/17/sql-server-and-docker-compose/
